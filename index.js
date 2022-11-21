@@ -19,7 +19,7 @@ function play(question, answer) {
 
 var q1 = {
   question: "Which comedy serial of SabTv channel is the longest running? ",
-  answer: "tarak mehta ka ooltah chashmah"
+  answer: "taarak mehta ka ooltah chashmah"
 }
 var q2 = {
   question: "What is the real name of character Jethalal in TMKOC? ",
